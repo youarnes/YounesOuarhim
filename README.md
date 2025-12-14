@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Younes Ouarhim
 
 🎓 **Student at CentraleSupélec**  
-💻 Passionate about **software engineering** and building **fun, impactful full-stack applications**
+💻 Passionate about **software engineering** and building **impactful full-stack applications**
 
 ---
 
