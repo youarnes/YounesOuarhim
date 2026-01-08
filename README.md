@@ -36,7 +36,7 @@ Tailwind CSS powers the design, ensuring a responsive and visually appealing lay
 - **Access:**
 If you'd like access to the app, just reach out to me for credentials.
 
-- 🔓** Coming Soon:**
+- 🔓 **Coming Soon:**
 The code will be made public soon! Keep an eye out for the repo.
 
 ### HTTP Server (Work in Progress)
