@@ -25,19 +25,11 @@
 
 ### 🏋️‍♂️ Gym Workout Tracker
 
-- 🚀 **New Version Deployed!**
-Check out the latest version of the app: [Lift Log V2](https://lift-log-v2.vercel.app/)
- 🤩
+- The source code has been made public, see repo **lift-log-v2** !
 
 - **Tech Stack:**
 This app is built with Next.js. I used the Pages Router for its simplicity and clean backend setup, similar to Express.js syntax.
 Tailwind CSS powers the design, ensuring a responsive and visually appealing layout on both desktop and mobile.
-
-- **Access:**
-If you'd like access to the app, just reach out to me for credentials.
-
-- 🔓 **Coming Soon:**
-The code will be made public soon! Keep an eye out for the repo.
 
 ### HTTP Server (Work in Progress)
 - HTTP servers are the backbone of web applications, so I decided to implement one from scratch as a hands-on learning project.  
